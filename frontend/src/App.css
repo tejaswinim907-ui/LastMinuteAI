@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  background: #eef2f7;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 70%;
+  margin: 40px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0,0,0,.1);
+}
+
+h1 {
+  color: #2563eb;
+}
+
+h2 {
+  color: gray;
+  margin-bottom: 30px;
+}
+
+.task-card{
+    background:#f8fafc;
+    padding:15px;
+    border-radius:10px;
+    margin-top:15px;
+    border-left:5px solid #2563eb;
+    font-size:18px;
+}
+
+.ai-box{
+    background:#dbeafe;
+    padding:20px;
+    border-radius:10px;
+    margin-top:15px;
+    font-size:18px;
+}
